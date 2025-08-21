@@ -1,0 +1,23 @@
+- Introduction & Problem Statement
+Accurate sales forecasting is critical for retail businesses to optimize inventory, staffing, and cash flow. This project aims to predict weekly sales for Walmart stores using historical sales data and external factors like holidays, economic indicators, and weather.
+
+- Business Objective
+Improve inventory management and cash flow planning by developing an accurate sales forecasting model that accounts for seasonal patterns, holidays, and economic conditions.
+
+---
+- KPIs to analyze
+Sales Trend Analysis: Weekly/Monthly/Quarterly sales patterns by store
+
+Holiday Impact: % sales lift during holiday weeks vs non-holiday weeks
+
+Economic Sensitivity: Correlation between sales and CPI/Unemployment/Fuel Price
+
+Temperature Impact: How temperature ranges affect sales
+
+Store Performance: Top/bottom performing stores by sales volume
+
+---
+
+- Dataset
+https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+
